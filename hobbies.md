@@ -1,4 +1,8 @@
 Hobbies
 -Leer
 -Correr
--Escribir
+-Escribir 
+
+Objetivos
+-Aprende git h
+-Hacer code
